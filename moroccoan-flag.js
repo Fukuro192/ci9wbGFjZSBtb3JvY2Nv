@@ -4,7 +4,7 @@
       {
         "name": "flag alternate spot",
         "sources": [
-          "https://cdn.discordapp.com/attachments/1131633763038793851/1131675197896925366/small_flag.png"
+          "https://cdn.discordapp.com/attachments/1131633763038793851/1131685804075389059/small_flag_v2.png"
         ],
         "x": 634,
         "y": 809
